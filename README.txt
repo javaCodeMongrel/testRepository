@@ -4,4 +4,5 @@ Updating README with new information
 Another update from the remote branch
 Sharing remotely is what I'm doing now
 Sharing again after incorrect training instruction
-FEATURE1
+Feature1
+Feature2
